@@ -1,5 +1,9 @@
 # basic-calculator-
+#<<<<<<< kahsaykiross-patch-1
 # plp assignment  calculates by accepting two numerical values from user and report error 
+#=======
+#plp assignment  calculates by accepting two numerical values from user and report error 
+#>>>>>>> main
 # Basic Calculator Program 🧮
 
 # Get input from the user
